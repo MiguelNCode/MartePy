@@ -23,5 +23,13 @@ Estou sempre aberto a trocar ideias, aprender com outros desenvolvedores e discu
 Se você está interessado em contribuir para algum dos meus projetos ou tem uma ideia legal, fique à vontade para **forkar**, **submeter pull requests** ou abrir uma **issue**. A comunidade é sempre bem-vinda!
 
 ## 📈 Estatísticas
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartePy&show_icons=true&theme=radical)](https://github.com/Marte)
+![](https://github-readme-stats.vercel.app/api?username=MartePy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MartePy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MartePy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=MartePy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 💻 Linguagem:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 -->
