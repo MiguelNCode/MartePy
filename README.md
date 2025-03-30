@@ -30,4 +30,3 @@ Se você está interessado em contribuir para algum dos meus projetos ou tem uma
 
 # 💻 Linguagem:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
--->
