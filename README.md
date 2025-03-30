@@ -31,5 +31,12 @@ Se você está interessado em contribuir para algum dos meus projetos ou tem uma
 # 💻 Linguagem:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartePy/MartePy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartePy/MartePy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MartePy/MartePy/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 -->
