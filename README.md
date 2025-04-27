@@ -22,6 +22,12 @@ Estou sempre aberto a trocar ideias, aprender com outros desenvolvedores e discu
 ## 🚀 Contribuições
 Se você está interessado em contribuir para algum dos meus projetos ou tem uma ideia legal, fique à vontade para **forkar**, **submeter pull requests** ou abrir uma **issue**. A comunidade é sempre bem-vinda!
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sophialberton/sophialberton/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sophialberton/sophialberton/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sophialberton/sophialberton/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 📈 Estatísticas
 ![](https://github-readme-stats.vercel.app/api?username=MiguelNCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MiguelNCode&theme=dark&hide_border=false)<br/>
