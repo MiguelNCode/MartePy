@@ -46,7 +46,7 @@ Caso tenha interesse em contribuir ou discutir alguma funcionalidade, fique à v
 ---
 
 ## 🔧 Tecnologias
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Automação](https://img.shields.io/badge/Automação-Terminal-2b2b2b?style=for-the-badge)
 
