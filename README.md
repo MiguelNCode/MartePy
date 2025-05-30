@@ -7,7 +7,7 @@ Atualmente, estou focado no desenvolvimento **Back-End** com **C#**, criando sol
 ---
 
 ## 🧭 Sobre mim
-- Desenvolvedor Back-End com foco em **C#** e automação.
+- Desenvolvedor Back-End com foco em **Java** e automação.
 - Interesse em criar **APIs**, **scripts de automação** e ferramentas úteis.
 - Curioso por sistemas que otimizam processos e resolvem problemas reais.
 - Foco em produtividade, organização e soluções escaláveis.
@@ -15,7 +15,7 @@ Atualmente, estou focado no desenvolvimento **Back-End** com **C#**, criando sol
 ---
 
 ## 📚 Atualmente estudando
-- Desenvolvimento de **APIs RESTful** com C#.  
+- Desenvolvimento de **API** com Java.  
 - Automatização de tarefas e fluxos manuais.  
 - Estruturação de código para **escalabilidade** e **manutenção**.  
 - **Git** e **GitHub** para controle de versão e colaboração.
