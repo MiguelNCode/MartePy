@@ -50,7 +50,7 @@ Caso tenha interesse em contribuir ou discutir alguma funcionalidade, fique à v
 ---
 
 ## 🔧 Tecnologias
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Automação](https://img.shields.io/badge/Automação-Terminal-2b2b2b?style=for-the-badge)
 
